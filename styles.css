@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    font-family: monospace;
+   
+}
+
+form{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    width: 40%;
+    
+    margin: auto;
+}
+
+p, ol, ul{
+    font-size: 18pt;
+    text-align: left;
+   
+}
+
+img{
+    height: 30em;
+    width: 30em;
+}
+
+h1{
+    font-size: 72px;
+}
+.recipes{
+    font-size: 24pt;
+}
+h3{
+    font-size: 24pt;
+    font-weight: bold:
+    
+  
